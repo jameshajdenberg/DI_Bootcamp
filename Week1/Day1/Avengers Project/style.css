@@ -1,0 +1,43 @@
+h1{
+	font-family: "Lucida Console", monospace;
+	color: darkred;
+	text-align: center;
+	font-size: 60px;
+	margin-top: 40px;
+}
+
+.both{
+	width: 500px;
+}
+
+p{
+	font-family: "Georgia", serif;
+	color: white;
+	right-margin: 500px;
+	left-margin: 40px;
+}
+
+a:link{
+	color: lightblue;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited{
+	color: darkred;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+footer{
+	text-align: center;
+	padding: 80px;
+	color: lightblue;
+}
+ul{
+	color: white;
+}
