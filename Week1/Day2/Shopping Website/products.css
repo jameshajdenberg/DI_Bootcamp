@@ -1,0 +1,28 @@
+img{
+
+	width:400px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+
+p{
+	font-family: "Monaco", Monospace;
+	margin: 150px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	max-width: 200px;
+}
+.price{
+	font-family: "Courier New", monospace;
+	color: red;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
